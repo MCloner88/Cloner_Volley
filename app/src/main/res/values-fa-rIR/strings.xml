@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">والی</string>
+    <string name="Textview_Login">ورود</string>
+    <string name="Edittext_Password">رمز عبور</string>
+    <string name="Edittext_Email">ایمیل</string>
+    <string name="CheckBox_Remmebr">من را بخاطر بسپار</string>
+    <string name="Textview_forget_password">فراموشی رمز عبور؟</string>
+    <string name="Textview_NewUser">عضو جدید؟</string>
+    <string name="Textview_SignUp">ثبت نام</string>
+    <string name="btn_sign">وارد شوید</string>
+    <string name="toast_internet_Error">نمیتوان به سرور متصل شد</string>
+    <string name="Textview_HaveAnAccount">اکانت دارید؟</string>
+    <string name="Textview_Register">ثبت نام</string>
+    <string name="Textview_Signin">ورود</string>
+    <string name="Textview_Validation">معتبر سازی</string>
+    <string name="btn_regester">ثبت نام</string>
+    <string name="toast_email_exist">این ایمیل از قبل وجود دارد</string>
+    <string name="Textview_forgetPassword">فراموشی رمز عبور</string>
+    <string name="btn_continue">ادامه</string>
+    <string name="btn_checkCode">بررسی کذ</string>
+    <string name="btn_goback">بازگشت</string>
+    <string name="Textview_email_error">ایمیل نا معتبر</string>
+    <string name="Textview_password_error">رمز عبور باید  6 حرف یا بیشتر باشد</string>
+    <string name="Textview_socialsignup">شبکه های اجتماعی</string>
+    <string name="toast_Login_Failed">رمز عبور یا نام کاربری اشتباه است</string>
+    <string name="toast_email_notExist">این ایمیل وجود ندارد</string>
+    <string name="toast_password_changed">رمز عبور با موفقیت تغییر کرد</string>
+    <string name="Textview_fromcamera">دوربین</string>
+    <string name="Textview_fromgallery">گالری</string>
+    <string name="Textview_delete_Ac">حذف اکانت</string>
+    <string name="Textview_logout">خروج از حساب کاربری</string>
+    <string name="toast_image_uploaded">تصویر بارگذتری شد</string>
+    <string name="Textview_sure">از این کار اطمینان دارید؟</string>
+    <string name="Textview_cancel">لغو</string>
+    <string name="toast_acc_deleted">حساب کاربری حذف شد</string>
+    <string name="Textview_noInternet">عدم اتصال شبکه</string>
+    <string name="Textview_delete">حذف</string>
+
+</resources>

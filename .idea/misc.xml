@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/drawable/background_button.xml" value="0.1795" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1515" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/drawable/ic_happiness_running.xml" value="0.1515" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/drawable/ic_login_back.xml" value="0.154" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_email_validation.xml" value="0.3176761433868974" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_forget_pass.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_forget_password.xml" value="0.34" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_login.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_main.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_register.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_show_image.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/activity_splash.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/alert_delete_acc.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/bottem_sheet.xml" value="0.3453125" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/failed_t.xml" value="0.355463347164592" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/item_images.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Cloner/AndroidStudioProjects/ClonerVolley/app/src/main/res/layout/success_t.xml" value="0.9" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cloner Volley</string>
+    <string name="Textview_Login">Login</string>
+    <string name="Edittext_Email">Email</string>
+    <string name="Edittext_Password">Password</string>
+    <string name="Textview_email_error">Error Email</string>
+    <string name="Textview_password_error">Password should be at least 6 character</string>
+    <string name="Textview_forget_password">Forget Password?</string>
+    <string name="CheckBox_Remmebr">Remmebr Me</string>
+    <string name="btn_sign">Sign in</string>
+    <string name="Textview_socialsignup">Social SignUp</string>
+    <string name="Textview_NewUser">New User?</string>
+    <string name="Textview_SignUp">SignUp</string>
+    <string name="toast_Login_Failed">Username or Password is Wrong</string>
+    <string name="toast_internet_Error">Can not Conecect To Server</string>
+    <string name="Textview_Register">Register</string>
+    <string name="Textview_HaveAnAccount">Have An Account?</string>
+    <string name="Textview_Signin">Sign in</string>
+    <string name="Textview_Validation">Validation</string>
+    <string name="btn_regester">Register</string>
+    <string name="toast_email_exist">Email Already Exist</string>
+    <string name="Textview_forgetPassword">Forget Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_checkCode">Check Code</string>
+    <string name="btn_goback">Go Back</string>
+    <string name="toast_email_notExist">Email Not Exist</string>
+    <string name="toast_password_changed">Password Changed</string>
+    <string name="Textview_fromcamera">From Camera</string>
+    <string name="Textview_fromgallery">From Gallery</string>
+    <string name="Textview_delete_Ac">Delete Account</string>
+    <string name="Textview_logout">Log Out</string>
+    <string name="toast_image_uploaded">Image Uploaded!</string>
+    <string name="Textview_sure">Are You Sure!?</string>
+    <string name="Textview_cancel">Cancel</string>
+    <string name="toast_acc_deleted">Account Deleted</string>
+    <string name="Textview_noInternet">No Internet</string>
+    <string name="Textview_delete">Delete</string>
+
+
+    <!--    چی شد چرا اینجوری شد-->
+    <!--    تو ریدی از من میپری؟-->
+    <!--    از اون موقع درست بود ک-->
+</resources>
